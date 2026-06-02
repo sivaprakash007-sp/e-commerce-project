@@ -1,0 +1,7 @@
+E-Commerce Sales Analysis - Insights
+
+1. Total Sales is 62000
+2. Electronics category has highest sales
+3. South and West regions perform better
+4. Ravi is the top customer
+5. Clothing category has lower sales compared to Electronics
